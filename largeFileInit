@@ -1,3 +1,0 @@
-git lfs install
-git lfs track *
-git add .gitattributes
