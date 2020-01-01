@@ -29,10 +29,16 @@ A loose list of ideas and concepts in no particular order:
   - Prevent from shooting off in one direction and hoping for the best
   - Refuel/recharge by staying inside a planet's orbit
   - Lose fuel/energy by staying outside a planet's orbit
+- Actual effects for hitting a planet
+  - Right now the rocket sprite just disapears and then the game fades to the game over screen
+  - Explosion/camera shake
 - Ship Customization
   - Hitting different "planets visited" milestones unlocks new ship sprites
 - Actually implementing the info (?) interface
   - Will briefly explain the game's objective and controls
+- Adding sound
+  - There are some UE4 bugs that make implementing sound in an HTML5 project extremely difficult
+  - I'll grind it out eventually
 - Optimizing Procedural Generation
   - Right now there's a pretty big buffer zone of unnecessary planets being generated outside of the player's field of vision
 - Aesthetic and colour correction improvements
