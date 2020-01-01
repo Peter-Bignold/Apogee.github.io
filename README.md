@@ -4,6 +4,10 @@
 ### About:
 Apogee is the accidental result of my experiments with procedural generation and physics-based gameplay in Unreal Engine 4. The goal is to create an accessible and mobile-compatible game that adds exploration elements to the traditional infinite scroller genre. I'm only a couple weeks into development, and as such still laying the foundations for the procedural algorithm, mechanics, and aesthetics. So far I've been having tons of fun creating the procedural planet generation algorithm and am super excited to expand upon it's complexity to provide a more interesting exploration-based experience. Apogee comes from a simple root concept, but holds the potential to become a pretty cool game, and that's where I want to take it!
 
+### Link to the Game:
+Apogee is hosted on github pages:
+https://noodle-games.github.io/Apogee.github.io/index.html
+
 ### Controls:
 - Boost: Lmb/Space/W
 - Brake: Rmb/LCtrl/S
