@@ -39,7 +39,7 @@ A loose list of ideas and concepts in no particular order:
 - Adding sound:
   - There are some UE4 bugs that make implementing sound in an HTML5 project extremely difficult
   - I'll grind it out eventually
-- Getting Rid of the ugly interface around the actual game
+- Getting rid of the ugly interface around the actual game
   - This is imbedded into the UE4 packaging of the game, and I'm trying to work out a solution to remove it
 - Optimizing Procedural Generation:
   - Right now there's a pretty big buffer zone of unnecessary planets being generated outside of the player's field of vision
