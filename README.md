@@ -29,8 +29,8 @@ A loose list of ideas and concepts in no particular order:
   - Prevent from shooting off in one direction and hoping for the best
   - Refuel/recharge by staying inside a planet's orbit
   - Lose fuel/energy by staying outside a planet's orbit
-- Actual effects for hitting a planet:
-  - Right now the rocket sprite just disapears and then the game fades to the game over screen
+- Actual effects when hitting a planet/dying:
+  - Right now the rocket sprite just disappears then the game fades to the end screen
   - Explosion/camera shake
 - Ship Customization:
   - Hitting different "planets visited" milestones unlocks new ship sprites
