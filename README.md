@@ -1,4 +1,4 @@
-![Logo](https://imgur.com/k9pMRGE)
+![Imgur](https://i.imgur.com/k9pMRGE.png)
 ## By Peter Lefaivre of Noodle Games
 
 ### About:
