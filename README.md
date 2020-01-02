@@ -26,9 +26,8 @@ A loose list of ideas and concepts in no particular order:
   - Unique planets that stand out and reward exploring farther from the starting planet
   - Largebois, supernovas, black holes, planets with rings, etc.
 - Fuel/energy system:
-  - Prevent from shooting off in one direction and hoping for the best
-  - Refuel/recharge by staying inside a planet's orbit
-  - Lose fuel/energy by staying outside a planet's orbit
+  - The current system works but it's rough
+  - I may redesign it into an item-based system later on
 - Actual effects when hitting a planet/dying:
   - Right now the rocket sprite just disappears then the game fades to the end screen
   - Explosion/camera shake
