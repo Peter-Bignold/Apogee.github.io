@@ -1,4 +1,4 @@
-![Logo](https://github.com/Noodle-Games/Apogee.github.io/ApogeeLogo1_Dark.png)
+![Logo](https://imgur.com/a/efdudMg)
 ## By Peter Lefaivre of Noodle Games
 
 ### About:
