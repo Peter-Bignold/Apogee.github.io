@@ -173,6 +173,6 @@ Module['FS_createPath']('/Apogee/Content', 'Paks', true, true);
   }
 
  }
- loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 85, "filename": "/UE4CommandLine.txt"}, {"start": 85, "audio": 0, "end": 55402369, "filename": "/Apogee/Content/Paks/Apogee-HTML5.pak"}], "remote_package_size": 55402369, "package_uuid": "205d1b77-7f53-4006-a4c1-204dce9eab71"});
+ loadPackage({"files": [{"start": 0, "audio": 0, "end": 53, "filename": "/Manifest_NonUFSFiles_HTML5.txt"}, {"start": 53, "audio": 0, "end": 85, "filename": "/UE4CommandLine.txt"}, {"start": 85, "audio": 0, "end": 50114016, "filename": "/Apogee/Content/Paks/Apogee-HTML5.pak"}], "remote_package_size": 50114016, "package_uuid": "fe220474-c5b0-4bac-9e72-3e81d7503da7"});
 
 })();
