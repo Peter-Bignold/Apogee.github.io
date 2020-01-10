@@ -17,7 +17,7 @@ https://noodle-games.github.io/Apogee.github.io/index.html
 
 ### Roadmap:
 A loose list of ideas and concepts in no particular order:
-- Random planet colours:
+- Random planet colours: ✔
   - Two-toned randomization, ie. random land and ocean colours
 - Random planet sprites:
   - Stars
@@ -33,14 +33,14 @@ A loose list of ideas and concepts in no particular order:
   - Explosion/camera shake
 - Ship Customization:
   - Hitting different "planets visited" milestones unlocks new ship sprites
-- Actually implementing the info (?) interface:
+- Actually implementing the info (?) interface: ✔
   - Will briefly explain the game's objective and controls
 - Adding sound:
   - There are some UE4 bugs that make implementing sound in an HTML5 project extremely difficult
   - I'll grind it out eventually
 - Getting rid of the ugly interface around the actual game
   - This is imbedded into the UE4 packaging of the game, and I'm trying to work out a solution to remove it
-- Optimizing Procedural Generation:
-  - Right now there's a pretty big buffer zone of unnecessary planets being generated outside of the player's field of vision
+- Optimizing Procedural Generation: ✔
+  - Transparent materials are really expensive on mobile and HTML, so instead of using 2D sprites I'm using actual models and basic shaders instead, which is actually way faster
 - Aesthetic and colour correction improvements:
   - Bringing everything together (will come in time)
