@@ -22,11 +22,6 @@
 
 	<link href="Apogee-HTML5-Shipping.css" rel="stylesheet">
 </head>
-<style>
-body {
-	background-color: #2B4263
-}
-</style>
 <body>
 
 <div class="wrapper" id="mainarea">
@@ -38,7 +33,13 @@ body {
 </div>
 <div class="row buttonarea text-center" id="buttonrow">
 	<div class="col-sm-2 text-center"></div>
+	<div class="col-sm-2 text-center"><button type="button" class="btn btn-primary" onclick="try { Module['pauseMainLoop'](); } catch(e) {console.error(e);}">Pause</button></div>
+	<div class="col-sm-2 text-center"><button type="button" class="btn btn-primary" onclick="try { Module['resumeMainLoop'](); } catch(e) {console.error(e);}">Resume</button></div>
+	<div class="col-sm-2 text-center"><button type="button" class="btn btn-primary" onclick="var w = document.getElementById('logwindow'); w.style.display = w.style.display ? '' : 'none';">Toggle Log</button></div>
+	<div class="col-sm-2 text-center"><button type="button" class="btn btn-primary" id='clear_indexeddb' onclick="try { deleteIndexedDBStorage(); } catch(e) {console.error(e);}">Clear IndexedDB</button></div>
 	<div class="col-sm-2 text-center"><button type="button" class="btn btn-primary" id="fullscreen_request">FullScreen</button></div>
+	<div class="col-sm-2 text-center"></div>
+	<div class="col-sm-2 text-center"></div>
 </div>
 <div class="texthalf text-normal jumbotron " id="logwindow" style='display:none'></div>
 
