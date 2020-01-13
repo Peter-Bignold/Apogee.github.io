@@ -51,10 +51,10 @@ html, body, .container {
 	position: relative;
 	margin: 1em auto 10px auto;
 	text-align: center;
-	min-width: 640px;
+	min-width: 1500px;
 	width: 100%;
 	height: 480px; /* initial height, will be dynamically adjusted at runtime */
-	max-width: 95%;
+	max-width: 100%;
 	display: block;
 	align-items: center;
 	position: relative;
