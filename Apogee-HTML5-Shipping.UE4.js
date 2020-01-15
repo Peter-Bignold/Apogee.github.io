@@ -268,7 +268,7 @@ function detectWebGL() {
 // Canvas scaling mode should be set to one of: 1=STRETCH, 2=ASPECT, or 3=FIXED.
 // This dictates how the canvas size changes when the browser window is resized
 // by dragging from the corner.
-var canvasWindowedScaleMode = 2 /*ASPECT*/;
+var canvasWindowedScaleMode = 1 /*ASPECT*/;
 
 // High DPI setting configures whether to match the canvas size 1:1 with
 // the physical pixels on the screen.
@@ -290,7 +290,7 @@ var canvasAspectRatioHeight = 768;
 function resizeCanvas(aboutToEnterFullscreen) {
 	// Configuration variables, feel free to play around with these to tweak.
 	var minimumCanvasHeightCssPixels = 480; // the visible size of the canvas should always be at least this high (in CSS pixels)
-	var minimumCanvasHeightFractionOfBrowserWindowHeight = 0.99; // and also vertically take up this much % of the total browser client area height.
+	var minimumCanvasHeightFractionOfBrowserWindowHeight = 0.65; // and also vertically take up this much % of the total browser client area height.
 
 	if (aboutToEnterFullscreen && !aboutToEnterFullscreen.type) { // UE4 engine is calling this function right before entering fullscreen?
 		// If you want to perform specific resolution setup here, do so by setting Module['canvas'].width x Module['canvas'].height now,
