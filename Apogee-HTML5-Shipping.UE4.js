@@ -289,7 +289,7 @@ var canvasAspectRatioHeight = 9;
 // the browser window size.
 function resizeCanvas(aboutToEnterFullscreen) {
 	// Configuration variables, feel free to play around with these to tweak.
-	var minimumCanvasHeightCssPixels = 900; // the visible size of the canvas should always be at least this high (in CSS pixels)
+	var minimumCanvasHeightCssPixels = 480; // the visible size of the canvas should always be at least this high (in CSS pixels)
 	var minimumCanvasHeightFractionOfBrowserWindowHeight = 1.00; // and also vertically take up this much % of the total browser client area height.
 
 	if (aboutToEnterFullscreen && !aboutToEnterFullscreen.type) { // UE4 engine is calling this function right before entering fullscreen?
