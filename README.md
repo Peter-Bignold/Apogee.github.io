@@ -20,7 +20,7 @@ A loose list of ideas and concepts in no particular order:
 - Random planet colours: ✔
   - Two-toned randomization, ie. random land and ocean colours
 - Random planet sprites: ✔
-  - There's currently a fair amount of variety in planets, but the more the better
+  - There's currently a fair amount of planet variety, but the more the better
 - "Hero" Planets:
   - Unique planets that stand out and reward exploring farther from the starting planet
   - Largebois, supernovas, black holes, planets with rings, etc.
