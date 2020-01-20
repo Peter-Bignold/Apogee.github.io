@@ -26,6 +26,9 @@ A loose list of ideas and concepts in no particular order:
   - Largebois, supernovas, black holes, planets with rings, etc.
 - Fuel/energy system: ✔
   - After quite a few iterations I'm becoming more happy with the current system
+  - Outside orbit = lose fuel
+  - Boosting = lose fuel
+  - Inside orbit = gain fuel
 - Actual effects when hitting a planet/dying: ✔
   - Big booms are now in
 - Ship Customization:
