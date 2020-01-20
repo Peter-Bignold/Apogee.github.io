@@ -44,6 +44,6 @@ A loose list of ideas and concepts in no particular order:
   - Currently it's less ugly than version 0.0.1, but still needs some work
 - Optimizing Procedural Generation: ✔
   - Transparent materials are really expensive on mobile and HTML, so instead of using 2D sprites I'm using models and basic shaders instead, which is actually way faster
-  - Planets will despawn when outside of a certain radius of the player
+  - Planets will despawn when outside of a certain radius to the player
 - Aesthetic and colour correction improvements: ✔
   - Bringing everything together
