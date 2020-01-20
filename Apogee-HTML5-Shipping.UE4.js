@@ -281,15 +281,15 @@ var canvasWindowedUseHighDpi = true;
 // If canvasWindowedScaleMode == 2 (ASPECT), this size defines only the aspect ratio
 //                                           that the canvas will be constrained to.
 // If canvasWindowedScaleMode == 1 (STRETCH), these size values are ignored.
-var canvasAspectRatioWidth = 1366;
-var canvasAspectRatioHeight = 768;
+var canvasAspectRatioWidth = 16;
+var canvasAspectRatioHeight = 9;
 
 
 // The resizeCanvas() function recomputes the canvas size on the page as the user changes
 // the browser window size.
 function resizeCanvas(aboutToEnterFullscreen) {
 	// Configuration variables, feel free to play around with these to tweak.
-	var minimumCanvasHeightCssPixels = 480; // the visible size of the canvas should always be at least this high (in CSS pixels)
+	var minimumCanvasHeightCssPixels = 800; // the visible size of the canvas should always be at least this high (in CSS pixels)
 	var minimumCanvasHeightFractionOfBrowserWindowHeight = 1.00; // and also vertically take up this much % of the total browser client area height.
 
 	if (aboutToEnterFullscreen && !aboutToEnterFullscreen.type) { // UE4 engine is calling this function right before entering fullscreen?
