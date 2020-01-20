@@ -30,7 +30,7 @@ A loose list of ideas and concepts in no particular order:
   - Boosting = lose fuel
   - Inside orbit = gain fuel
 - Actual effects when hitting a planet/dying: ✔
-  - Big booms are now in
+  - There's now big booms when hitting a planet or running out of fuel
 - Ship Customization:
   - Hitting different "planets visited" milestones unlocks new ship sprites
 - Actually implementing the info (?) interface: ✔
