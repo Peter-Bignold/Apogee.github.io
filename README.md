@@ -37,7 +37,7 @@ A loose list of ideas and concepts in no particular order:
   - Briefly explain the game's objective and controls
   - Controls, How To Play, and Credits menus
 - Adding sound:
-  - There are some UE4 bugs that make implementing sound in an HTML5 project extremely difficult
+  - There are some UE4 bugs that make implementing sound in an HTML5 project very cumbersome
   - I'll grind it out eventually
 - Getting rid of the ugly interface around the actual game
   - Wrangling with all the extra garbage UE4 imbeds into packaged projects is a pain
