@@ -1,5 +1,5 @@
 ﻿![Imgur](https://i.imgur.com/k9pMRGE.png)
-## By Peter Lefaivre of Noodle Games
+## By Peter Bignold of Noodle Games
 
 ### Note:
 Apogee's new home is on itch.io. You can find it at the link below!
